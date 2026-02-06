@@ -71,3 +71,5 @@ export default defineConfig([
   },
 ])
 ```
+# Tripsaver
+Plan, organize, and save trips (web version)
